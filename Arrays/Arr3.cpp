@@ -1,4 +1,4 @@
-//Program to  to replace all spaces in a string with '%20'
+//Program to replace all spaces in a string with '%20'
 #include <bits/stdc++.h>
 using namespace std;
 
